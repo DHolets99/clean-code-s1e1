@@ -19,10 +19,13 @@ img {
 }
 
 @media (max-width:768px) {
-.image {
-    text-align: center;
+
+    .image {
+        text-align: center;
+    }
+
 }
-}
+
 .main-page-element {
     display: block;
     width: 500px;
